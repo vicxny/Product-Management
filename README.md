@@ -22,6 +22,9 @@
 
 ## Inspiration
 [PM Interview Prep Plan: How I got PM offers from Google, Expedia, Microsoft, and Facebook](https://www.teamblind.com/post/PM-Interview-Prep-Plan-How-I-got-PM-offers-from-Google-Expedia-Microsoft-and-Facebook-pj56HMHQ)
+
 [A Guide for Facebook's Rotational PM program](https://www.reddit.com/r/ProductManagement/comments/ora679/a_guide_for_facebooks_rotational_pm_program/)
+
 [How To Get Into Product Management (And Thrive)](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf)
+
 [I'm starting my first full-time product management role soon.](https://www.reddit.com/r/ProductManagement/comments/npj805/im_starting_my_first_fulltime_product_management/)
