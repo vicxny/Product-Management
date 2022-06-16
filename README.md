@@ -6,16 +6,16 @@
 [Real-World Product Management Specialization](https://www.coursera.org/specializations/real-world-product-management)
 
 ## Books
-Swipe to Unlock: The Primer on Technology and Business Strategy
-Decode and Conquer: Answers to Product Management Interviews
-Continuous Discovery Habits
-EMPOWERED
-INSPIRED
-Never Split the Difference
-Influence: The Psychology of Persuasion
-The Success Code: How to Stand Out and Get Noticed 
-HBR Guide to Getting the Mentoring You Need
-The Rules of People
+- Swipe to Unlock: The Primer on Technology and Business Strategy
+- Decode and Conquer: Answers to Product Management Interviews
+- Continuous Discovery Habits
+- EMPOWERED
+- INSPIRED
+- Never Split the Difference
+- Influence: The Psychology of Persuasion
+- The Success Code: How to Stand Out and Get Noticed 
+- HBR Guide to Getting the Mentoring You Need
+- The Rules of People
 
 ## Video
 [Exponent](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A)
