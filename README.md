@@ -2,7 +2,9 @@
 
 ## Course
 [Become a Product Manager](https://www.linkedin.com/learning/paths/become-a-product-manager-2)
+
 [Digital Product Management Specialization](https://www.coursera.org/specializations/uva-darden-digital-product-management)
+
 [Real-World Product Management Specialization](https://www.coursera.org/specializations/real-world-product-management)
 
 ## Books
