@@ -22,6 +22,8 @@
 ## Video
 [Exponent](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A)
 
+[Cracking the PM Interview](https://www.youtube.com/watch?v=CshJxTcsgvo)
+
 ## Inspiration
 [PM Interview Prep Plan: How I got PM offers from Google, Expedia, Microsoft, and Facebook](https://www.teamblind.com/post/PM-Interview-Prep-Plan-How-I-got-PM-offers-from-Google-Expedia-Microsoft-and-Facebook-pj56HMHQ)
 
