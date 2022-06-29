@@ -8,6 +8,7 @@
 [Real-World Product Management Specialization](https://www.coursera.org/specializations/real-world-product-management)
 
 [PMA - Product Marketing](https://certified.productmarketingalliance.com/p/product-marketing-certified-core)
+[LinkedIn Marketing Labs](https://training.marketing.linkedin.com/page/certifications)
 
 ## Books
 - Swipe to Unlock: The Primer on Technology and Business Strategy
