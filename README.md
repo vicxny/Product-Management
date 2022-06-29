@@ -7,6 +7,8 @@
 
 [Real-World Product Management Specialization](https://www.coursera.org/specializations/real-world-product-management)
 
+[PMA](https://certified.productmarketingalliance.com/p/product-marketing-certified-core)
+
 ## Books
 - Swipe to Unlock: The Primer on Technology and Business Strategy
 - Decode and Conquer: Answers to Product Management Interviews
