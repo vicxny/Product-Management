@@ -13,6 +13,8 @@
 
 [Survival Guide for new Product Managers](https://pmdiego.substack.com/p/-survival-guide-for-new-product-managers)
 
+[Reforge](https://www.reforge.com/)
+
 ## Books
 - Swipe to Unlock: The Primer on Technology and Business Strategy
 - Decode and Conquer: Answers to Product Management Interviews
