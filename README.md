@@ -26,6 +26,8 @@
 - The Success Code: How to Stand Out and Get Noticed 
 - HBR Guide to Getting the Mentoring You Need
 - The Rules of People
+- The Design of Everyday Things by Don Norman
+- Hooked by Nir Eyal
 
 ## Video
 [Exponent](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A)
