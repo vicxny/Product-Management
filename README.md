@@ -15,6 +15,8 @@
 
 [Reforge](https://www.reforge.com/)
 
+[PM Learning Series](https://www.linkedin.com/newsletters/pm-learning-series-6930736280242704384/)
+
 ## Books
 - Swipe to Unlock: The Primer on Technology and Business Strategy
 - Decode and Conquer: Answers to Product Management Interviews
