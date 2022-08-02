@@ -11,7 +11,7 @@
 
 [LinkedIn Marketing Labs](https://training.marketing.linkedin.com/page/certifications)
 
-[Survival Guide for new Product Managers](https://pmdiego.substack.com/p/-survival-guide-for-new-product-managers)
+[Survival Guide for new Product Managers](https://www.pmdiego.com/)
 
 [Reforge](https://www.reforge.com/)
 
