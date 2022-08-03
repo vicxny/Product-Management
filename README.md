@@ -31,6 +31,10 @@
 - The Rules of People
 - The Design of Everyday Things by Don Norman
 - Hooked by Nir Eyal
+- Hooked by Michael Moss
+- The Talent Code
+- Never Eat Alone
+
 
 ## Video
 [Exponent](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A)
