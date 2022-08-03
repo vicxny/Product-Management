@@ -34,6 +34,7 @@
 - Hooked by Michael Moss
 - The Talent Code
 - Never Eat Alone
+- How to Win Friends and Influence People
 
 
 ## Video
