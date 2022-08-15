@@ -19,6 +19,7 @@
 
 ## Books
 - Swipe to Unlock: The Primer on Technology and Business Strategy
+- Escaping the Build Trap
 - Decode and Conquer: Answers to Product Management Interviews
 - Product Management's Sacred Seven
 - Continuous Discovery Habits
