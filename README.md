@@ -15,6 +15,8 @@
 
 [Reforge](https://www.reforge.com/)
 
+[Product Alliance](https://www.productalliance.com/)
+
 [PM Learning Series](https://www.linkedin.com/newsletters/pm-learning-series-6930736280242704384/)
 
 ## Books
