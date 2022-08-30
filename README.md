@@ -26,6 +26,7 @@
 - Product Management's Sacred Seven
 - Continuous Discovery Habits
 - EMPOWERED
+- LOVED
 - INSPIRED
 - Never Split the Difference
 - Influence: The Psychology of Persuasion
