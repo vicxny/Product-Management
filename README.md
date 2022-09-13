@@ -37,6 +37,7 @@
 - Hooked by Nir Eyal
 - The Talent Code
 - Never Eat Alone
+- Good Strategy Bad Strategy: The Difference and Why It Matters
 - How to Win Friends and Influence People
 
 
