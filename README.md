@@ -13,6 +13,7 @@
 [LinkedIn Marketing Labs](https://training.marketing.linkedin.com/page/certifications)
 
 
+
 Courses | Offered by | Month | Pace |
 :-- | :--: | :--: | :--: | 
 [Become a Product Manager](https://www.linkedin.com/learning/paths/become-a-product-manager-2)| LinkedIn |  Approximately 10 months | 3 hours/week |
