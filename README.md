@@ -1,25 +1,30 @@
 # Product-Management
 
 ## Course
-[Become a Product Manager](https://www.linkedin.com/learning/paths/become-a-product-manager-2)
 
-[Digital Product Management Specialization](https://www.coursera.org/specializations/uva-darden-digital-product-management)
+Courses | Offered by | Month | Pace |
+:-- | :--: | :--: | :--: | 
+[Become a Product Manager](https://www.linkedin.com/learning/paths/become-a-product-manager-2)| LinkedIn |  Approximately 10 months | 3 hours/week |
+[PM Learning Series](https://www.linkedin.com/newsletters/pm-learning-series-6930736280242704384/)| LinkedIn |  Approximately 10 months | 3 hours/week |
+[Digital Product Management Specialization](https://www.coursera.org/specializations/uva-darden-digital-product-management)| Coursera |  Approximately 10 months | 3 hours/week |
+[Real-World Cloud Product Management Specialization](https://www.coursera.org/specializations/real-world-cloud-pm)| Coursera |  Approximately 10 months | 3 hours/week |
 
-[Real-World Cloud Product Management Specialization](https://www.coursera.org/specializations/real-world-cloud-pm)
-
-[Real-World Product Management Specialization](https://www.coursera.org/specializations/real-world-product-management)
-
-[PMA - Product Marketing](https://certified.productmarketingalliance.com/p/product-marketing-certified-core)
-
-[LinkedIn Marketing Labs](https://training.marketing.linkedin.com/page/certifications)
-
-[Survival Guide for new Product Managers](https://www.pmdiego.com/)
 
 [Reforge](https://www.reforge.com/)
 
 [Product Alliance](https://www.productalliance.com/)
 
-[PM Learning Series](https://www.linkedin.com/newsletters/pm-learning-series-6930736280242704384/)
+[PMA - Product Marketing](https://certified.productmarketingalliance.com/p/product-marketing-certified-core)
+
+[Survival Guide for new Product Managers](https://www.pmdiego.com/)
+
+[LinkedIn Marketing Labs](https://training.marketing.linkedin.com/page/certifications)
+
+
+
+
+
+
 
 ## Books
 - Swipe to Unlock: The Primer on Technology and Business Strategy
