@@ -5,6 +5,8 @@
 
 [Digital Product Management Specialization](https://www.coursera.org/specializations/uva-darden-digital-product-management)
 
+[Real-World Cloud Product Management Specialization](https://www.coursera.org/specializations/real-world-cloud-pm)
+
 [Real-World Product Management Specialization](https://www.coursera.org/specializations/real-world-product-management)
 
 [PMA - Product Marketing](https://certified.productmarketingalliance.com/p/product-marketing-certified-core)
