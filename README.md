@@ -27,6 +27,7 @@ Courses | Offered by | Month | Pace |
 - Escaping the Build Trap
 - Decode and Conquer: Answers to Product Management Interviews
 - Product Management's Sacred Seven
+- Cracking the PM Interview
 - Continuous Discovery Habits
 - EMPOWERED
 - LOVED
