@@ -4,6 +4,8 @@
 
 [Reforge](https://www.reforge.com/)
 
+[GoPractice](https://gopractice.io/)
+
 [Product Alliance](https://www.productalliance.com/)
 
 [PMA - Product Marketing](https://certified.productmarketingalliance.com/p/product-marketing-certified-core)
