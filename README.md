@@ -8,6 +8,8 @@
 
 [Product Alliance](https://www.productalliance.com/)
 
+[ProductHQ](https://producthq.org/product-management-certifications/)
+
 [PMA - Product Marketing](https://certified.productmarketingalliance.com/p/product-marketing-certified-core)
 
 [Survival Guide for new Product Managers](https://www.pmdiego.com/)
