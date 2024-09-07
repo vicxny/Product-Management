@@ -14,6 +14,8 @@
 
 [Survival Guide for new Product Managers](https://www.pmdiego.com/)
 
+[Associate Product Manager Playbook](https://productlife.to/p/the-associate-product-manager-playbook)
+
 [LinkedIn Marketing Labs](https://training.marketing.linkedin.com/page/certifications)
 
 
