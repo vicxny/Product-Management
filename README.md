@@ -18,8 +18,6 @@
 
 [LinkedIn Marketing Labs](https://training.marketing.linkedin.com/page/certifications)
 
-[A Guide to Facebook's RPM program by an RPM-Alumni](https://docs.google.com/document/d/1Xe3YMBotM09HDFp0PJzYQ0cmcfrslB0Z6mmMxZPqImk/edit#heading=h.2gj8pr9iz7m)
-
 
 
 Courses | Offered by | Month | Pace |
