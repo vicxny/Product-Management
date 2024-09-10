@@ -10,8 +10,6 @@
 
 [ProductHQ](https://producthq.org/product-management-certifications/)
 
-[PMA - Product Marketing](https://www.productmarketingalliance.com/pro-plus-membership/)
-
 [Survival Guide for new Product Managers](https://www.pmdiego.com/)
 
 [Associate Product Manager Playbook](https://productlife.to/p/the-associate-product-manager-playbook)
