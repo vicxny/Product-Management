@@ -10,7 +10,7 @@
 
 [ProductHQ](https://producthq.org/product-management-certifications/)
 
-[PMA - Product Marketing](https://certified.productmarketingalliance.com/p/product-marketing-certified-core)
+[PMA - Product Marketing](https://www.productmarketingalliance.com/pro-plus-membership/)
 
 [Survival Guide for new Product Managers](https://www.pmdiego.com/)
 
