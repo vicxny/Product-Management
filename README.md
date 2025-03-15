@@ -25,6 +25,9 @@ Courses | Offered by | Month | Pace |
 [Digital Product Management Specialization](https://www.coursera.org/specializations/uva-darden-digital-product-management)| Coursera |  Approximately 10 months | 3 hours/week |
 [Real-World Product Management](https://www.coursera.org/specializations/real-world-product-management)| Coursera |  Approximately 10 months | 3 hours/week |
 [Real-World Cloud Product Management Specialization](https://www.coursera.org/specializations/real-world-cloud-pm)| Coursera |  Approximately 10 months | 3 hours/week |
+[IBM Product Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-product-manager)| Coursera |  Approximately 10 months | 3 hours/week |
+[Xbox Product Manager Professional Certificate](https://www.coursera.org/professional-certificates/xbox-product-manager)| Coursera |  Approximately 10 months | 3 hours/week |
+
 
 ## Books
 - Swipe to Unlock: The Primer on Technology and Business Strategy
